@@ -57,7 +57,7 @@ class SignupPage extends StatelessWidget {
                                   return "Enter Valid Email";
                                 }
                                 return null;
-                              }, ,label: "Email")),
+                        }, label: "Email")),
                     FadeAnimation(1.3, makeInput((v){
                       return null;
                     },label: "Password", obscureText: true)),
