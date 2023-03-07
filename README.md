@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ScreenShot
 
-<img src="assets/screenshots/home.png" height="500em"/>&nbsp;<img src="assets/screenshots/login.png" height="500em" />
-&nbsp;<img src="assets/screenshots/signup.png" height="500em" />
+<img src="home.png" height="500em"/>&nbsp;<img src="login.png" height="500em" />
+&nbsp;<img src="signup.png" height="500em" />
